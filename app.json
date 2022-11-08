@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "labLuby-refactored",
+    "slug": "labLuby-refactored",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
